@@ -1,0 +1,28 @@
+name: iamadrienne
+favicon: null
+layout_spectrum: 0.5899881098885089
+typography_spectrum: 0.5893513881601393
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9663056218996644
+  lightness: 0.43095723120495677
+  saturation: 0.36609962745569646
+  rhythmicContrast: 0.700837739976123
+purpose: []
