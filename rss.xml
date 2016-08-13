@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[iamadrienne]]></title>
         <description><![CDATA[iamadrienne]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/iamadrienne/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Aug 2016 21:34:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 13 Aug 2016 21:40:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/iamadrienne/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd3c5c7f-aa4f-4ff3-be58-55bc9737c236.jpg">]]></description>
-            <link>undefined58d4c19b-94f3-41fa-a654-00d23a938ce2/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/57359963-655a-4f72-8940-943cf4765884.jpg">]]></description>
+            <link>https://thegrid.ai/iamadrienne/58d4c19b-94f3-41fa-a654-00d23a938ce2/index.html</link>
             <guid isPermaLink="false">58d4c19b-94f3-41fa-a654-00d23a938ce2</guid>
-            <pubDate>Sat, 13 Aug 2016 21:34:22 GMT</pubDate>
+            <pubDate>Sat, 13 Aug 2016 21:39:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
